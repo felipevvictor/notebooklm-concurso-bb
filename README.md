@@ -20,38 +20,6 @@ O foco é transformar um grande volume de conteúdo em um ambiente de estudo mui
 
 ---
 
-# 📂 Estrutura do Projeto
-
-```text
-📦 notebooklm-bb-agente-tecnologia
-│
-├── 📁 PDFs
-│   ├── Edital
-│   ├── Apostilas
-│   ├── Materiais Complementares
-│   └── Legislação
-│
-├── 📁 Quizzes
-│   ├── Conhecimentos Bancários
-│   ├── Tecnologia da Informação
-│   ├── Banco de Dados
-│   ├── Programação
-│   ├── Redes
-│   ├── Segurança da Informação
-│   ├── Probabilidade e Estatística
-│   └── Inglês
-│
-├── 📁 Prompts
-│   ├── Revisão
-│   ├── Flashcards
-│   ├── Simulados
-│   └── Questões Comentadas
-│
-└── README.md
-```
-
----
-
 # 🚀 Como utilizar
 
 1. Faça upload dos PDFs no NotebookLM.
@@ -168,6 +136,12 @@ Este repositório possui finalidade exclusivamente educacional e pessoal.
 
 Os materiais utilizados pertencem aos seus respectivos autores. Todo o conteúdo gerado pelo NotebookLM deve ser utilizado como complemento aos estudos, não substituindo a leitura do edital e das fontes oficiais.
 
+---
+# Links gerados pela IA
+
+1- Flash Cards: https://notebooklm.google.com/notebook/1bf912e9-094c-42e9-919c-e1bf0032d31c/artifact/c19f3537-c51b-4dd7-898a-4d1a19732477?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+2 - Quizzes: https://notebooklm.google.com/notebook/1bf912e9-094c-42e9-919c-e1bf0032d31c/artifact/c19f3537-c51b-4dd7-898a-4d1a19732477?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 ---
 
 # ⭐ Contribuição
