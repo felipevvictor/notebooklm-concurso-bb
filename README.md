@@ -141,7 +141,7 @@ Os materiais utilizados pertencem aos seus respectivos autores. Todo o conteúdo
 
 1- Flash Cards: https://notebooklm.google.com/notebook/1bf912e9-094c-42e9-919c-e1bf0032d31c/artifact/c19f3537-c51b-4dd7-898a-4d1a19732477?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
-2 - Quizzes: https://notebooklm.google.com/notebook/1bf912e9-094c-42e9-919c-e1bf0032d31c/artifact/c19f3537-c51b-4dd7-898a-4d1a19732477?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+2- Quizzes: https://notebooklm.google.com/notebook/1bf912e9-094c-42e9-919c-e1bf0032d31c/artifact/c19f3537-c51b-4dd7-898a-4d1a19732477?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 ---
 
 # ⭐ Contribuição
